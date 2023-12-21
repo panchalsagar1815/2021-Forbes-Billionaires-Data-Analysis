@@ -1,6 +1,6 @@
 # 2021-Forbes-Billionaires-Data-Analysis
 
-Project Title: 2021 Forbes Billionaires Data Analysis
+
 
 Project Description:
 The "2021 Forbes Billionaires Data Analysis" project is a comprehensive examination of the financial landscape, focusing on the wealth distribution and characteristics of billionaires as reported by Forbes in the year 2021. The dataset encompasses key features including individual names, net worth, country of residence, source of wealth, rank, age, industry affiliation, and more.
